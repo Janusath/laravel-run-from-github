@@ -7,7 +7,7 @@ Follow the method:-
 5.php artisan serve
 
 
-when your projet jwt authentication laravel project, follow this command :
+when your projet is jwt authentication laravel project, follow this command :
  after 3. php artisan key:generate
  4. php artisan jwt:secret
  5. php artisan cache:clear
